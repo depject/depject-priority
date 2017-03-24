@@ -1,6 +1,6 @@
 {
   "name": "depject-priority",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "order depject modules using a priority value",
   "main": "index.js",
   "scripts": {
