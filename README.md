@@ -2,6 +2,10 @@
 
 order depject modules using a priority value
 
+low numbers are higher priority.
+
+default priority is 500.
+
 ```shell
 npm install --save depject-priority
 ```
